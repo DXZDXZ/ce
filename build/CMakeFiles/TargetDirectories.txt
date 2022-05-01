@@ -1,3 +1,0 @@
-D:/studio/project/ce/build/CMakeFiles/ce.dir
-D:/studio/project/ce/build/CMakeFiles/ALL_BUILD.dir
-D:/studio/project/ce/build/CMakeFiles/ZERO_CHECK.dir
